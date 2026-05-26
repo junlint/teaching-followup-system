@@ -1,0 +1,15 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files (keep sensitive config out)
+.env
+.env.local
+application-local.yml
